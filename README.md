@@ -16,3 +16,9 @@
 ![image](https://user-images.githubusercontent.com/48361860/153206015-b6d43c5f-ec0a-4a2f-97e6-9a687c4a0b2d.png)
 - To check if all went well and you did everything correctly, try searching for Lost Ark in the Steam Store. If it shows up, then it's download time.
 ![image](https://user-images.githubusercontent.com/48361860/153206560-98d0889b-329b-49fc-9639-3af598c5319c.png)
+
+### II. Purchases
+- As a Free to Play game, it will definitely have a lot of microtransactions to support the devs. One of the first purchases of the games is the involvement of Founders packs.
+- Since we're technically using a US Steam Account based on SEA, **it is very important that you stay consistent with your checkout details or YOU WILL GET YOUR ACCOUNT BANNED**.
+- I say this because upon checkout of an item you wish to buy, Steam will ask you for a region, and **you are charged differently for a product depending on a region**. Some may have taxes, etc. If you decide to buy in California, for example, in your first ever purchase, you also have to buy in California for all your succeeding purchases. This is to prevent Steam from accusing that you're only region switching to find out which country charges you the lowest for your product.
+![image](https://user-images.githubusercontent.com/48361860/153321124-91fed275-7086-4829-8a80-08fdba2565a4.png)
